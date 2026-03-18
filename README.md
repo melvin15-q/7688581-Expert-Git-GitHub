@@ -60,7 +60,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **O.C.**
+* **DARIL MELVIN**
 
 ## License
 
